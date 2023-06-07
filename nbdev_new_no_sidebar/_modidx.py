@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://dsm-72.github.io',
                 'git_url': 'https://github.com/dsm-72/nbdev-new-no-sidebar',
                 'lib_path': 'nbdev_new_no_sidebar'},
-  'syms': {'nbdev_new_no_sidebar.core': {'nbdev_new_no_sidebar.core.foo': ('core.html#foo', 'nbdev_new_no_sidebar/core.py')}}}
+  'syms': { 'nbdev_new_no_sidebar.another': { 'nbdev_new_no_sidebar.another.another': ( 'core copy.html#another',
+                                                                                        'nbdev_new_no_sidebar/another.py')},
+            'nbdev_new_no_sidebar.core': {'nbdev_new_no_sidebar.core.foo': ('core.html#foo', 'nbdev_new_no_sidebar/core.py')}}}
