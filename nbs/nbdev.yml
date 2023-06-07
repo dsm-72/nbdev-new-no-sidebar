@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-new-no-sidebar"
+  site-url: "https://dsm-72.github.io/nbdev-new-no-sidebar"
+  description: "for a github issue"
+  repo-branch: main
+  repo-url: "https://github.com/dsm-72/nbdev-new-no-sidebar"
